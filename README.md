@@ -1,17 +1,17 @@
 # Revista
 Trabalho da disciplina de Paradigmas de Linguagem de Programação, objetivo: criar um projeto usando o padrão Reativo.
 
-<h1>Descrição</h1>
+<h2>Descrição</h2>
 O projeto trata-se de uma aplicação para uma <strong>revista</strong>, onde cada cliente tem a opção de fazer novas publicações e também se cadastrar para receber novas publicações.<br>
 Existem as aplicações servidor e cliente que se comunicam via socket.
 
-<h1>Equipe</h1>
+<h2>Equipe</h2>
 <ul>
 <li>
 Gabriel Angelo
 </li>
 <li>
-Juliano Rocha Barbosa
+Juliano Rocha
 </li>
 <li>
 Walesca Oliveira
@@ -29,7 +29,7 @@ Comunicação assíncrona
 Velocidade de conexão
 </li>
 <li>
-Escalabilidade, mesmo q não esteja otimizada
+Escalabilidade, mesmo que não esteja otimizada
 </li>
 <li>
 Persistência de arquivos, de certa forma
@@ -37,16 +37,16 @@ Persistência de arquivos, de certa forma
 </ul>
 
 
-<h2>Pontos fracos/Coisas que podem ser melhoradas</h2>
+<h2>Pontos fracos/Podem ser melhorados</h2>
 <ul>
 <li>
-testado apenas em localhost
+Testado apenas em localhost
 </li>
 <li>
-não confiável
+Não confiável
 </li>
 <li>
-segurança não testada
+Segurança não testada
 </li>
 <li>
 Oferece poucas opções para o cliente
