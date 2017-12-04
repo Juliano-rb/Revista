@@ -1,0 +1,12 @@
+Vai ter um servidor: no servidor ficam os textos publicados
+Funções do servidor: 1) registrar clientes, 2) publicar os textos
+
+Vai ter um cliente: vai receber os textos
+Funções do cliente: 3) cadastrar no servidor, 4) receber os textos
+
+
+Requisitos funcionais: os essenciais: 1,2,3,4
+Requisitos não-funcionais:
+
+
+diretório contendo txt(textos)
