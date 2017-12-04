@@ -1,6 +1,10 @@
 # Revista
 Trabalho da disciplina de Paradigmas de Linguagem de Programação, objetivo: criar um projeto usando o padrão Reativo.
 
+<h1>Descrição</h1>
+O projeto trata-se de uma aplicação para uma <strong>revista</strong>, onde cada cliente tem a opção de fazer novas publicações e também se cadastrar para receber novas publicações.<br>
+Existem as aplicações servidor e cliente que se comunicam via socket.
+
 <h1>Equipe</h1>
 <ul>
 <li>
